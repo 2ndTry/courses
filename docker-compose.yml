@@ -8,7 +8,7 @@ services:
      TEST_SERVICE_PORT: ${TEST_SERVICE_PORT}
      OPEN_API_TITLE: ${OPEN_API_TITLE}
    ports:
-     - "8093:${TEST_SERVICE_PORT}"
+     - "8097:${TEST_SERVICE_PORT}"
    logging:
      driver: 'json-file'
      options:
