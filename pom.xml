@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.mirniy</groupId>
-	<artifactId>courses</artifactId>
+	<artifactId>courses-service</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>Courses</name>
 	<description>Test task for Customs Card</description>
